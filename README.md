@@ -1,3 +1,14 @@
+## Please see details of the assignment below. 
+## Rscripts along with four garphs generated are submittied.
+## unzip the data in same directory as R scipt and run it to get the graphs. 
+## One set of generated graphs are submitted,
+
+
+
+
+
+
+
 ## Introduction
 
 This assignment uses data from
